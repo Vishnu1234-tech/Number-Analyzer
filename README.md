@@ -26,4 +26,27 @@ A simple yet powerful Python mini project that takes a number and input and anal
 
   -------
 
+  ## Steps to run
+
+  1. Make sure you have **Python 3** installed on your system.
+  2. Download or clone this repository.
+  3. Open a terminal or command prompt in the project directory.
+
+    -------
+
+   ## Sample Output
+
+  Enter a number : 8
+  8 is even
+  8 is not a prime number
+  Factorial of 8 is 40320
+
+  -------
+
+  ##Author
+
+  **[Vishnupriya Sreedharan Pillai ]**
+  Github: [https://github.com/Vishnu1234-tech/Number-Analyzer/edit/main/README.md]
   
+  
+     
