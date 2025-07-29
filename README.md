@@ -46,7 +46,7 @@ A simple yet powerful Python mini project that takes a number and input and anal
   ##Author
 
   **[Vishnupriya Sreedharan Pillai ]**
-  Github: [https://github.com/]
+  Github: [https://github.com/Vishnu1234-tech]
   
   
      
